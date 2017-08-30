@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout>
+    <adminhtml_custom_declaration>
+        <reference name="content">
+            <block type="jr_createadmincontroller/adminhtml_custom" name="custom_declaration" template="custom/declaration.phtml" />
+        </reference>
+    </adminhtml_custom_declaration>
+</layout>
